@@ -652,6 +652,9 @@ const HeroSection = ({ onExplore }) => (
             Delicious meals at cheap & affordable prices. Pass by today on
             Kasijjagirwa-Kigamba Road.
           </p>
+          <p className="text-xl text-slate-400 max-w-lg mb-10 leading-relaxed">
+            Mobile catering services.
+          </p>
           <button
             onClick={onExplore}
             className="px-8 py-4 rounded-2xl spicy-gradient text-white font-bold flex items-center justify-center gap-2 group transition-all hover:shadow-[0_0_30px_rgba(239,68,68,0.4)]"
