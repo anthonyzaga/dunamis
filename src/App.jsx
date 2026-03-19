@@ -25,6 +25,8 @@ import {
 } from 'lucide-react';
 
 import chapattiImg from './assets/Soft Brown Roti.jpg';
+import Logo from './assets/logo.jpg';
+import Heart from './assets/heart-svgrepo-com.svg';
 // --- Theme Styles ---
 const styles = `
   @keyframes slideUp {
